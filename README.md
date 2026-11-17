@@ -19,7 +19,7 @@ I am a Computer Science and Engineering undergraduate interested in software dev
 ### 4. SWAYAM – Emerging Technologies in Renewable Energy Sources
 - Certificate: [View Certificate](Renewable_Energy.pdf)
 ### 5. Robotics Fundamentals – AI and IoT Integrated
-- Certificate: [View Certificate](Robotics_Fundamentals_AI_IoT.pdf)
+- Certificate: [View Certificate](ROBOTICS FUNDAMENTALS -AI AND IOT INTEGRATED.pdf)
 ## About Me
 - Computer Science and Engineering Student
 - Interested in Data Engineering and Software Development
